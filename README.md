@@ -1,12 +1,43 @@
-<h1 align="center">Hi 👋, I'm Asier Páez</h1>
-<h3 align="center">A dedicated programming student from Barcelona</h3>
+# ¡Hola! Soy Asier Páez Jara 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/asier paez jara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asier paez jara" height="30" width="40" /></a>
+### 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma | Aspirante a Game Dev
+
+Me apasiona crear experiencias interactivas y soluciones multiplataforma. Actualmente estoy enfocando mi carrera hacia el **Desarrollo de Videojuegos**, combinando la programación lógica con la creatividad técnica.
+
+---
+
+## 🛠️ Mi Caja de Herramientas
+Aquí están las tecnologías con las que trabajo y que estoy perfeccionando:
+
+* **Lenguajes:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* **Motor de Juego:** ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 🎯 En qué estoy trabajando ahora
+* 🤖 **Inteligencia Artificial:** Realizando un curso especializado para entender cómo integrar IA en mis futuros desarrollos.
+* 🐍 **Mastering Python & JS:** Reforzando mis bases para ser un desarrollador más sólido.
+* 🎮 **Unity & C#:** Creando mis primeras mecánicas y prototipos de juego.
+
+---
+
+## ⚡ Sobre mí
+Cuando no estoy picando código o peleando con algún bug en Unity, probablemente me encuentres:
+* 🏀 Jugando al **baloncesto** o escalando alguna pared (**escalada**).
+* 🥁 Marcando el ritmo en la **batería** o practicando con la **armónica** (¡mi nuevo reto!).
+* 🎮 Analizando las mecánicas de mi videojuego favorito.
+
+---
+
+## 📫 Conectemos
+¡Siempre estoy abierto a charlar sobre Game Dev, IA o música!
+
+* 📧 **Email:** [asierpj10@gmail.com](mailto:asierpj10@gmail.com)
+* 📸 **Instagram:** [asier paez jara](https://instagram.com/asier_paez_jara) 
+
+---
+<p align="center">
+  <i>"El código es como la música, cada línea debe estar en perfecta sintonía."</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
